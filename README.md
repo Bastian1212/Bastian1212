@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Bastian1212/Bastian1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Bienvenido a mi perfil de Git!
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi nombre es Bastián Villanueva, desde pequeño he sentido un gran entusiasmo por el mundo de la tecnología. Actualmente, me dedico a explorar y profundizar en áreas como la programación, la arquitectura informática, redes y el Internet de las Cosas.
+
+
+## Contacto
+
+ - Correo electrónico: Bastianvilanueva@me.com
+ - LinkedIn: [Bastián Villanueva Meza](https://www.linkedin.com/in/basti%C3%A1n-ignacio-villanueva-meza-232b6a225/)
+    
+
+
+

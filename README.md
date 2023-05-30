@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# ¡Bienvenido a mi perfil de Git!
+# ¡Bienvenido a mi perfil de Git!!
 
 ## Sobre mí
 
